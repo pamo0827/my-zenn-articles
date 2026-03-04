@@ -1,4 +1,10 @@
-# SECCON 14 Begginers Workshop　Write-up
+---
+title: "SECCON 14 Beginners Workshop Write-up"
+emoji: "🔐"
+type: "tech"
+topics: ["CTF", "pwn", "security", "reversing"]
+published: true
+---
 
 ![代替テキスト](https://www.seccon.jp/2022/assets_c/2022/05/beginners-thumb-448x300-1-thumb-448x300-348.jpg)
 
